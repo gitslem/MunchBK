@@ -10,7 +10,10 @@ const nextConfig = {
     unoptimized: true,
   },
   experimental: {
-    serverComponentsExternalPackages: ['mongodb']
+    serverExternalPackages: ['mongodb'],
+    turbopack: {
+      root: '/Users/travix/Downloads/MunchBook'
+    }
   }
 }
 
