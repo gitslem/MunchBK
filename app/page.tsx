@@ -344,7 +344,7 @@ export default function LandingPage() {
                 href="https://vandit-shah.me/"
                 target="_blank"
               >
-                Vandit Shah
+                Anslem
               </a>
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">

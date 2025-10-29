@@ -181,7 +181,7 @@ How to Run Locally
 ------------------
 
 ```
-git clone https://github.com/yourusername/munchbook.git
+git clone https://github.com/gitslem/munchbk.git
 cd munchbook
 npm install
 
@@ -199,11 +199,7 @@ This project is licensed under the MIT License.
 
 * * * * *
 
-Contact
--------
-
-Built with passion by [Vandit Shah](https://vandit-shah.me). You can connect with me via [LinkedIn](https://linkedin.com/in/shah-vandit) or email at <shahvandit8@gmail.com>.
-
-* * * * *
-
 **MunchBook**: A smarter way to track, review, and relive your food memories.
+
+Clone. Learn. Build. by SLM.
+-------
