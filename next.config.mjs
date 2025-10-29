@@ -9,12 +9,13 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  experimental: {
-    serverExternalPackages: ['mongodb'],
-    turbopack: {
-      root: '/Users/travix/Downloads/MunchBook'
-    }
-  }
+  // Removed experimental keys that are not recognized
+  // experimental: {
+  //   serverExternalPackages: ['mongodb'],  // Not supported
+  //   turbopack: {                          // Not supported
+  //     root: '/Users/travix/Downloads/MunchBook'
+  //   }
+  // }
 }
 
 export default nextConfig
